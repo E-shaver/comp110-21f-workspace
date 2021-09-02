@@ -1,4 +1,4 @@
-"""Asking for input"""
+"""Asking for input."""
 
 __author__ = "730396741"
 

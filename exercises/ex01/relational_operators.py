@@ -1,4 +1,4 @@
-"""Relational operator demonstration"""
+"""Relational operator demonstration."""
 __author__ = "730396741"
 
 x: str = input("Left-hand side: ")
